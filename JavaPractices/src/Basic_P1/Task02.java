@@ -2,7 +2,7 @@ package Basic_P1;
 
 import javax.swing.JOptionPane;
 
-public class Task2 {
+public class Task02 {
 	// Write a Java program to print the sum of two numbers.
 	public static void main(String[] args) {
 		
